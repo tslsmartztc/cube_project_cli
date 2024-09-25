@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/gookit/goutil/testutil/assert"
-	"github.com/tslsmartztc/cube_project_cli/pkg"
+	pkg "github.com/tslsmartztc/cube_project_cli/pkg/api"
 )
 
 func Test_GetProjWithCode(t *testing.T) {
