@@ -3,7 +3,7 @@ package pkg_test
 import (
 	"testing"
 
-	"github.com/gookit/goutil/testutil/assert"
+	"github.com/stretchr/testify/assert"
 	pkg "github.com/tslsmartztc/cube_project_cli/pkg/api"
 )
 
